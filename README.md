@@ -1,1 +1,1 @@
-# exercise.ly
+# exercise.ly - web app
